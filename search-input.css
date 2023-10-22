@@ -1,0 +1,37 @@
+input {
+  width: 256px;
+  height: 96px;
+
+  border: none;
+
+  font-size: 250%;
+
+  text-align: center;
+}
+h1 {
+  font-size: 64px;
+
+  display: flex;
+  justify-content: 'space-between';
+  margin-bottom: 15px ;
+
+  color: #5e81ac;
+
+  align-items: center;
+  justify-content: center;
+}
+.wersja {
+  display: flex;
+  justify-content: 'space-between';
+  margin-bottom: 25px ;
+}
+.wyszukiwarka {
+  display: flex;
+  justify-content: 'space-between';
+  margin-bottom: 25px;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
